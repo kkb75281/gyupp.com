@@ -1,5 +1,6 @@
 <template lang="pug">
 h1 Welcome, gyupp-site! 과제 테스트입니다.
+p 2026/07/01 13:55 버전 입니다.
 p 아래 버튼을 누르면 서버의 다른 Git 프로젝트에서 strong git pull --ff-only 를 실행합니다.
 
 .row
